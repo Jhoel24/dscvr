@@ -1,0 +1,14 @@
+/vendor/
+/node_modules/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Directorios de configuración del IDE
+/.idea/
+/.vscode/
+
+# Archivos de configuración de entorno local
+.env
+
